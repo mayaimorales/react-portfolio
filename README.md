@@ -30,3 +30,4 @@
 I am an aspiring full-stack developer. Please feel free to contact me with any questions, critiques, or other inquiries.
 
 ## License 🔑
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
