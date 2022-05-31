@@ -1,4 +1,4 @@
-# React-Portfolio
+# React-Portfolio 🚀
 
 ## Table of Contents 📖
 
