@@ -13,11 +13,15 @@
 
 ## Description 📝
 
+The following application is a project portfolio built using react. It contains a navbar with the corresponding sections: 'About Me', 'Portfolio', 'Contact Me' and 'Resume'. It is designed to professionally display projects that I have worked on while showcasing my newest skills by the way the application was built.
+
 ## Application Preview ⭐
 
 ## Installation 🛠️
 
+
 ## Usage 💡
+
 
 ## Technologies 🔧
 
